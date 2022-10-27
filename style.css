@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+}
+
+img {
+  width: 348px;
+  height: 223px;
+
+  margin: 0 auto 72px;
+}
+
+span {
+  color: #ff9900;
+}
+
+h1 {
+  width: 562px;
+  height: 112px;
+  text-align: center;
+  margin-inline: auto;
+
+  font-family: 'Inter', sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+
+  margin-bottom: 32px;
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+.parag {
+  width: 592px;
+  height: 140px;
+
+  margin-inline: auto;
+  margin-bottom: 72px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+
+  text-align: center;
+  color: #7d7987;
+}
+
+.line {
+  margin: 0 auto 8px;
+  width: 568px;
+  height: 0px;
+
+  border: 1px solid #ECEFF2
+}
+.footer {
+  width: 592px;
+  height: 28px;
+  margin-inline: auto;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+
+  text-decoration: none;
+}
+
+.footer  a  {
+  margin-left: 28px;
+  color: #ff9900;
+}
+
+#balls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 0;
+
+  width: 98.39px;
+  height: 88px;
+}
+
